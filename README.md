@@ -6,3 +6,15 @@ You can test the program by downloading the ROM and playing it on any Intellevis
 http://www.intellivisionrevolution.com/intybasic
 
 The program is currently glitched whereas it will get slower and slower the longer you play it until it freezes.
+
+CONTROLS:
+Menus:
+1- move up
+2- move down
+3- move left
+4- move right
+ctrl- select
+
+Game:
+1-4 turn on and off catch (must be selected one at a time)
+ctrl- strum
